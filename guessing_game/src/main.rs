@@ -1,6 +1,6 @@
 use std::cmp::Ordering;
 use std::io;
-use std::num::{IntErrorKind, ParseIntError};
+use std::num::IntErrorKind;
 
 fn main() {
     // 範囲式は「開始..=終了」の形で表す、下限値と上限値ともに含む
