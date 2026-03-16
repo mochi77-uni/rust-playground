@@ -1,0 +1,8 @@
+[package]
+name = "simple_web_server"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rust-embed = "8.11.0"
+threadpool = "1.8.1"
